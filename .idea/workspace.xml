@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7c5bd38-f837-4d76-8a4c-bce88e56b0ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataAnalysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interligenceModule/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pythonScript/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scrapy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/viewUtils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="275">
+                <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,6 +35,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -46,35 +64,6 @@
             <path>
               <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dataAnalysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interligenceModule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pythonScript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyTeachingPlan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyTeachingPlan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="viewUtils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,15 +99,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600495645507</updated>
-      <workItem from="1600495646873" duration="244000" />
+      <workItem from="1600495646873" duration="448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244000" />
+    <option name="totallyTimeSpent" value="448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -145,5 +135,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="275">
+            <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
